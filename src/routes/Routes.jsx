@@ -13,6 +13,9 @@ import Faq from "../pages/Faq";
 
 
 
+
+
+
 const routes = createBrowserRouter([
   {
     path: "/",
