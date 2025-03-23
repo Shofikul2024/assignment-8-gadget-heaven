@@ -4,6 +4,7 @@ import vr from "../../assets/assets/banner.jpg";
 import Heading from "../Heading/Heading";
 import { useNavigate } from "react-router-dom";
 
+
 const Banner = () => {
   const navigate = useNavigate();
   return (
