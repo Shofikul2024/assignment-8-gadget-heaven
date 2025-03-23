@@ -10,6 +10,8 @@ const Card = ({ product }) => {
         <p className="font-medium text-sm opacity-60 mb-4">Price: {price}k</p>
       </div>
 
+
+
       <span className="font-semibold text-md p-2 hover:bg-[#9538E2] hover:text-white border border-[#9538E2] rounded-3xl text-[#9538E2] ">
         <Link to={`/products/${product_id}`}>View Details</Link>
       </span>
